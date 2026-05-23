@@ -38,8 +38,8 @@ Attributen beskriver egenskaper hos cellkärnor i tumörbiopsier, exempelvis rad
 
 ### 1. Klona projektet
 ```bash
-git clone https://github.com/<ditt-användarnamn>/breast-cancer-classification.git
-cd breast-cancer-classification
+git clone https://github.com/AsonP/YKPYT26V2_BREAST_CANCER.git
+cd YKPYT26V2_BREAST_CANCER
 ```
 
 ### 2. Skapa och aktivera virtuellt environment
